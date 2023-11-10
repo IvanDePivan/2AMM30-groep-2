@@ -7,5 +7,3 @@ To run the code used for fine-tuning the models:
 - Upload the contents of the `data` folder to your Colab workspace
 - Run the cells under `Prerequisites`
 - Run either the `Component 1` or `Component 2` cells
-
-Intermediate files are also included in the `data` folder, allowing for running of some cells out of order.
