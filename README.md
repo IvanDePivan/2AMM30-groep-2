@@ -3,7 +3,7 @@ This repository contains all the files needed to replicate the results for the a
 
 ## Replicating our training
 To run the code used for fine-tuning the models:
-- Open the `flair_model_comp_1_and_2.ipynb` in Colab
+- Open the `Flairmodel.ipynb` in Colab
 - Upload the `data` folder to your Colab workspace
 - Run the cells under `Prerequisites`
 - Run either the `Component 1` or `Component 2` cells
