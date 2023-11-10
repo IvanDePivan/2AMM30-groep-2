@@ -1,6 +1,9 @@
 # 2AMM30-groep-2
 This repository contains all the files needed to replicate the results for the assignment, both component 1 and 2.
 
+## Results
+The resulting triplets can be found in `component1_triplets.json` and `component2_triplets.json` respetively.
+
 ## Replicating our training
 To run the code used for fine-tuning the models:
 - Open the `Flairmodel.ipynb` in Colab
