@@ -1,0 +1,4463 @@
+[
+  [
+    [
+      [
+        "facility experienced a momentary interuption of station power",
+        "1111",
+        "org:happened_at"
+      ],
+      [
+        "momentary interuption of station power",
+        "1111",
+        "org:happened_at"
+      ],
+      23
+    ],
+    [
+      [
+        "facility experienced a momentary interuption of station power",
+        "October 29, 1992",
+        "org:happened_at"
+      ],
+      [
+        "momentary interuption of station power",
+        "October 29, 1992",
+        "org:happened_at"
+      ],
+      23
+    ],
+    [
+      [
+        "tripping the 138 kV tie breaker and the generator output breaker",
+        "main transformer protective relay operated",
+        "org:caused_by"
+      ],
+      [
+        "the current transformer terminal block of the 138 kV tie breaker",
+        "loose connection was discovered",
+        "org:caused_by"
+      ],
+      78
+    ],
+    [
+      [
+        "turbine was automatically tripped",
+        "Station Power was automatically transfered from the 138 kV line to the 46 kV line",
+        "org:caused_by"
+      ],
+      [
+        "false differential condition",
+        "separation of one of the inputs to the protective relays",
+        "org:caused_by"
+      ],
+      85
+    ],
+    [
+      [
+        "Unusual Event (Unusual Event) was conservatively declared",
+        "1135",
+        "org:happened_at"
+      ],
+      [
+        "Unusual Event (Unusual Event) was conservatively declared",
+        "1135",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unusual Event was exited",
+        "1426",
+        "org:happened_at"
+      ],
+      [
+        "Unusual Event was exited",
+        "1426",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "thermal damage and separation of one of the inputs to the protective relays",
+        "loose connection was discovered in the current transformer terminal block of the 138 kV tie breaker",
+        "org:caused_by"
+      ],
+      [
+        "the current transformer terminal block of the 138 kV tie breaker",
+        "loose connection was discovered",
+        "org:caused_by"
+      ],
+      120
+    ],
+    [
+      [
+        "false differential condition",
+        "thermal damage and separation of one of the inputs to the protective relays",
+        "org:caused_by"
+      ],
+      [
+        "false differential condition",
+        "separation of one of the inputs to the protective relays",
+        "org:caused_by"
+      ],
+      19
+    ],
+    [
+      [
+        "normal lineup for station power was restored",
+        "October 30, 1992",
+        "org:happened_at"
+      ],
+      [
+        "momentary interuption of station power",
+        "October 29, 1992",
+        "org:happened_at"
+      ],
+      31
+    ],
+    [
+      [
+        "Plant was returned to power operation",
+        "November 2, 1992",
+        "org:happened_at"
+      ],
+      [
+        "Plant was returned to power operation",
+        "November 2, 1992",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor was also manually scrammed",
+        "1112",
+        "org:happened_at"
+      ],
+      [
+        "Unusual Event was exited",
+        "1426",
+        "org:happened_at"
+      ],
+      30
+    ]
+  ],
+  [
+    [
+      [
+        "main generator tripped",
+        "June 25, 1989",
+        "org:happened_at"
+      ],
+      [
+        "main generator tripped",
+        "June 25, 1989",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "main generator tripped",
+        "0008",
+        "org:happened_at"
+      ],
+      [
+        "main generator tripped",
+        "0008",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "main generator tripped",
+        "phase differential condition",
+        "org:caused_by"
+      ],
+      [
+        "main generator tripped",
+        "phase differential condition",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "phase differential condition",
+        "fault in one of the main output transformers",
+        "org:caused_by"
+      ],
+      [
+        "phase differential condition",
+        "fault in one of the main output transformers",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "turbine trip signal was generated",
+        "generator tripped",
+        "org:caused_by"
+      ],
+      [
+        "main generator tripped",
+        "June 25, 1989",
+        "org:happened_at"
+      ],
+      40
+    ],
+    [
+      [
+        "anticipatory reactor scram",
+        "turbine trip signal was generated",
+        "org:caused_by"
+      ],
+      [
+        "anticipatory reactor scram",
+        "turbine trip signal was generated",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "reached a cold shutdown condition",
+        "plant was cooled down with the main condensers and the shutdown cooling system",
+        "org:caused_by"
+      ],
+      [
+        "phase differential condition",
+        "fault in one of the main output transformers",
+        "org:caused_by"
+      ],
+      73
+    ],
+    [
+      [
+        "reached a cold shutdown condition",
+        "1100",
+        "org:happened_at"
+      ],
+      [
+        "reached a cold shutdown condition",
+        "1100",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "equipment failure",
+        "event",
+        "org:caused_by"
+      ],
+      [
+        "main generator tripped",
+        "0008",
+        "org:happened_at"
+      ],
+      22
+    ],
+    [
+      [
+        "phase differential condition",
+        "internal winding had failed",
+        "org:caused_by"
+      ],
+      [
+        "phase differential condition",
+        "internal winding had failed",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "generator trip",
+        "phase differential condition",
+        "org:caused_by"
+      ],
+      [
+        "generator trip",
+        "phase differential condition",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Nine Mile Point Unit 1 (Mile Point Unit 1) received an automatic scram initiation signal",
+        "0451",
+        "org:happened_at"
+      ],
+      [
+        "Nine Mile Point Unit 1 (Mile Point Unit 1) received an automatic scram initiation signal",
+        "0451",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Nine Mile Point Unit 1 (Mile Point Unit 1) received an automatic scram initiation signal",
+        "April 5, 1994",
+        "org:happened_at"
+      ],
+      [
+        "Nine Mile Point Unit 1 (Mile Point Unit 1) received an automatic scram initiation signal",
+        "April 5, 1994",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "full reactor scram",
+        "Nine Mile Point Unit 1 (Mile Point Unit 1) received an automatic scram initiation signal",
+        "org:caused_by"
+      ],
+      [
+        "full reactor scram",
+        "Nine Mile Point Unit 1 (Mile Point Unit 1) received an automatic scram initiation signal",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "event",
+        "electrical short in the polarizing circuit within the distance directional relay 21B-1",
+        "org:caused_by"
+      ],
+      [
+        "event",
+        "electrical short in the polarizing circuit within the distance directional relay 21B-1",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "main generator trip",
+        "#8 line breaker R915 tripped unexpectedly",
+        "org:caused_by"
+      ],
+      [
+        "#8 line breaker R915 tripped unexpectedly",
+        "breaker R925 was opened",
+        "org:happened_at"
+      ],
+      54
+    ],
+    [
+      [
+        "full reactor scram",
+        "#8 line breaker R915 tripped unexpectedly",
+        "org:caused_by"
+      ],
+      [
+        "#8 line breaker R915 tripped unexpectedly",
+        "breaker R925 was opened",
+        "org:happened_at"
+      ],
+      57
+    ]
+  ],
+  [
+    [
+      [
+        "plant was operating at 100% power",
+        "January 27, 1992",
+        "org:happened_at"
+      ],
+      [
+        "plant was operating at 100% power",
+        "January 27, 1992",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor trip occurred",
+        "January 27, 1992",
+        "org:happened_at"
+      ],
+      [
+        "plant was operating at 100% power",
+        "January 27, 1992",
+        "org:happened_at"
+      ],
+      26
+    ],
+    [
+      [
+        "steam flow-feedwater flow mismatch",
+        "January 27, 1992",
+        "org:happened_at"
+      ],
+      [
+        "plant was operating at 100% power",
+        "January 27, 1992",
+        "org:happened_at"
+      ],
+      30
+    ],
+    [
+      [
+        "reactor trip occurred",
+        "steam flow-feedwater flow mismatch",
+        "org:caused_by"
+      ],
+      [
+        "reactor trip occurred",
+        "steam flow-feedwater flow mismatch",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Safety Injection (Safety Injection) signal",
+        "high steam flow-low Reactor Coolant System (reactor coolant system) average temperature conditions",
+        "org:caused_by"
+      ],
+      [
+        "Safety Injection (Safety Injection) signal",
+        "high steam flow-low Reactor Coolant System (reactor coolant system) average temperature conditions",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor trip",
+        "main feedwater regulating valve going to the closed position unexpectedly",
+        "org:caused_by"
+      ],
+      [
+        "reactor trip",
+        "main feedwater regulating valve going to the closed position unexpectedly",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Safety Injection signal arose",
+        "decrease in reactor coolant system temperature",
+        "org:caused_by"
+      ],
+      [
+        "Safety Injection signal arose",
+        "decrease in reactor coolant system temperature",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "decrease in reactor coolant system temperature",
+        "reactor trip coincident with high steam flow signals from two steam generators",
+        "org:caused_by"
+      ],
+      [
+        "decrease in reactor coolant system temperature",
+        "reactor trip",
+        "org:caused_by"
+      ],
+      66
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 3 at 98.5% power",
+        "1125",
+        "org:happened_at"
+      ],
+      [
+        "Unit 3 at 98.5% power",
+        "1125",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unit 3 at 98.5% power",
+        "March 21, 1987",
+        "org:happened_at"
+      ],
+      [
+        "Unit 3 at 98.5% power",
+        "March 21, 1987",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "full reactor Generator Load Reject scram signal, followed by Group II and III isolations, was received",
+        "March 21, 1987",
+        "org:happened_at"
+      ],
+      [
+        "full reactor Generator Load Reject scram signal, followed by",
+        "March 21, 1987",
+        "org:happened_at"
+      ],
+      42
+    ],
+    [
+      [
+        "full reactor Generator Load Reject scram signal, followed by Group II and III isolations, was received",
+        "1125",
+        "org:happened_at"
+      ],
+      [
+        "full reactor Generator Load Reject scram signal, followed by",
+        "1125",
+        "org:happened_at"
+      ],
+      42
+    ],
+    [
+      [
+        "scram was reset",
+        "1134",
+        "org:happened_at"
+      ],
+      [
+        "was reset",
+        "1134",
+        "org:happened_at"
+      ],
+      6
+    ],
+    [
+      [
+        "personnel error",
+        "event",
+        "org:caused_by"
+      ],
+      [
+        "was reset",
+        "1134",
+        "org:happened_at"
+      ],
+      17
+    ],
+    [
+      [
+        "SGC 12A main generator negative sequence relay to trip",
+        "electrical worker jarred panel 903-29",
+        "org:caused_by"
+      ],
+      [
+        "SGC 12A main generator negative sequence relay to trip",
+        "electrical worker jarred panel 903-29",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "no equipment malfunctions or degraded equipment",
+        "event",
+        "org:caused_by"
+      ],
+      [
+        "Unit 3 at 98.5% power",
+        "1125",
+        "org:happened_at"
+      ],
+      45
+    ],
+    [
+      [
+        "scram",
+        "SGC 12A main generator negative sequence relay to trip",
+        "org:caused_by"
+      ],
+      [
+        "scram",
+        "SGC 12A main generator negative sequence relay to trip",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "momentary grid voltage disturbance",
+        "1309",
+        "org:happened_at"
+      ],
+      [
+        "momentary grid voltage disturbance occurred",
+        "1309",
+        "org:happened_at"
+      ],
+      9
+    ],
+    [
+      [
+        "momentary grid voltage disturbance",
+        "February 26, 2008",
+        "org:happened_at"
+      ],
+      [
+        "momentary grid voltage disturbance occurred",
+        "February 26, 2008",
+        "org:happened_at"
+      ],
+      9
+    ],
+    [
+      [
+        "reactor trip of both Turkey Point Units 3 and 4 when both channels of safety-related 4 KV bus undervoltage relays for each unit actuated after a one second time delay",
+        "momentary grid voltage disturbance",
+        "org:caused_by"
+      ],
+      [
+        "Protection and Control field engineer disabled both levels of local protection",
+        "an",
+        "org:caused_by"
+      ],
+      157
+    ],
+    [
+      [
+        "shutting down the Unit 4 4A steam generator feed pump",
+        "1620",
+        "org:happened_at"
+      ],
+      [
+        "4 4A steam generator feed pump",
+        "1620",
+        "org:happened_at"
+      ],
+      23
+    ],
+    [
+      [
+        "transferring to standby feedwater, auxiliary feedwater (Auxiliary Feedwater System)",
+        "red flag semaphore still present on the 4B Steam Generator Feedwater Pump control switch",
+        "org:caused_by"
+      ],
+      [
+        "auxiliary feedwater (Auxiliary Feedwater System) automatically actuated",
+        "red flag semaphore still present on the 4B Steam Generator Feedwater Pump control switch",
+        "org:caused_by"
+      ],
+      49
+    ],
+    [
+      [
+        "Auxiliary Feedwater System actuation occurred",
+        "inadequate procedural guidance",
+        "org:caused_by"
+      ],
+      [
+        "inadvertent Auxiliary Feedwater System actuation occurred",
+        "inadequate procedural guidance",
+        "org:caused_by"
+      ],
+      12
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 4 operating at 100 percent power",
+        "September 15, 1989",
+        "org:happened_at"
+      ],
+      [
+        "Unit 4 operating at 100 percent power",
+        "September 15, 1989",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unit 4 operating at 100 percent power",
+        "0426",
+        "org:happened_at"
+      ],
+      [
+        "Unit 4 operating at 100 percent power",
+        "0426",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "September 15, 1989",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "September 15, 1989",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "0426",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "0426",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "High Pressure (High Pressure) turbine stop valve Auto Stop Oil line weld leak",
+        "0045",
+        "org:happened_at"
+      ],
+      [
+        "High Pressure (High Pressure) turbine stop valve Auto Stop Oil line weld leak identified",
+        "0045",
+        "org:happened_at"
+      ],
+      11
+    ],
+    [
+      [
+        "closure of the stop valve",
+        "High Pressure (High Pressure) turbine stop valve Auto Stop Oil line weld leak",
+        "org:caused_by"
+      ],
+      [
+        "closure of the stop valve",
+        "0045",
+        "org:happened_at"
+      ],
+      77
+    ],
+    [
+      [
+        "overfeed of the Steam Generator",
+        "failure of the 4C Steam Generator foodwater control valve to close",
+        "org:caused_by"
+      ],
+      [
+        "Auto Stop Oil line weld failure",
+        "inadequate field installation",
+        "org:caused_by"
+      ],
+      79
+    ],
+    [
+      [
+        "\"shrink\" of the Reactor Coolant System inventory",
+        "failure of the 4C Steam Generator foodwater control valve to close",
+        "org:caused_by"
+      ],
+      [
+        "overfeed of the Steam Generator and \"shrink\" of the Reactor Coolant System inventory",
+        "Feedwater Isolation (slow closure) signal",
+        "org:caused_by"
+      ],
+      88
+    ],
+    [
+      [
+        "feedwater control valve failure to close",
+        "inadequate procedure used during a recent modification",
+        "org:caused_by"
+      ],
+      [
+        "feedwater control valve failure to close",
+        "inadequate procedure used",
+        "org:caused_by"
+      ],
+      29
+    ],
+    [
+      [
+        "Auto Stop Oil line weld failure",
+        "inadequate field installation",
+        "org:caused_by"
+      ],
+      [
+        "Auto Stop Oil line weld failure",
+        "inadequate field installation",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Auto Stop Oil line weld failure",
+        "fatigue failure",
+        "org:caused_by"
+      ],
+      [
+        "Auto Stop Oil line weld failure",
+        "inadequate field installation",
+        "org:caused_by"
+      ],
+      22
+    ],
+    [
+      [
+        "failure of the control rods to drive in automatically",
+        "inadequacy in the refueling Preventive Maintenance program",
+        "org:caused_by"
+      ],
+      [
+        "failure of the control rods to drive in automatically",
+        "inadequacy in the refueling Preventive Maintenance program",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 2 was in the RUN mode at approximately 95% power",
+        "June 21, 1994",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 was in the RUN mode at approximately 95% power",
+        "June 21, 1994",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Reactor was manually scrammed",
+        "1405",
+        "org:happened_at"
+      ],
+      [
+        "source",
+        "the",
+        "org:caused_by"
+      ],
+      29
+    ],
+    [
+      [
+        "main turbine was manually tripped",
+        "1405",
+        "org:happened_at"
+      ],
+      [
+        "source",
+        "the",
+        "org:caused_by"
+      ],
+      33
+    ],
+    [
+      [
+        "Electrohydraulic Control line failure",
+        "high cycle fatigue crack propagation at the radius of the tube flare",
+        "org:caused_by"
+      ],
+      [
+        "Electrohydraulic Control line failure",
+        "high cycle fatigue crack propagation at the radius of the tube flare",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "cycle stresses",
+        "fatigue crack initiation and propagation",
+        "org:caused_by"
+      ],
+      [
+        "source",
+        "Electrohydraulic Control fluid leak",
+        "org:caused_by"
+      ],
+      46
+    ],
+    [
+      [
+        "vibration on the Electrohydraulic Control line",
+        "oscillations of the #2 turbine control valve",
+        "org:caused_by"
+      ],
+      [
+        "stresses were induced by vibration on the Electrohydraulic Control line",
+        "oscillations of the #2 turbine control valve",
+        "org:caused_by"
+      ],
+      25
+    ]
+  ],
+  [
+    [
+      [
+        "automatic reactor trip (reactor trip) occurred",
+        "June 4, 2000",
+        "org:happened_at"
+      ],
+      [
+        "automatic reactor trip (reactor trip) occurred",
+        "June 4, 2000",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "main turbine generator tied to the grid",
+        "June 4, 2000",
+        "org:happened_at"
+      ],
+      [
+        "automatic reactor trip (reactor trip) occurred",
+        "June 4, 2000",
+        "org:happened_at"
+      ],
+      32
+    ],
+    [
+      [
+        "reactor power being raised to 30%",
+        "June 4, 2000",
+        "org:happened_at"
+      ],
+      [
+        "automatic reactor trip (reactor trip) occurred",
+        "June 4, 2000",
+        "org:happened_at"
+      ],
+      35
+    ],
+    [
+      [
+        "feedwater flow increased",
+        "adjustment to main boiler feedwater pump speed was made by a licensed operator",
+        "org:caused_by"
+      ],
+      [
+        "feedwater flow increased",
+        "was",
+        "org:caused_by"
+      ],
+      75
+    ],
+    [
+      [
+        "level in the 33 Steam Generator reached the high-high",
+        "adjustment to main boiler feedwater pump speed was made by a licensed operator",
+        "org:caused_by"
+      ],
+      [
+        "turbine trip (turbine trip)",
+        "level in the 33 Steam Generator reached the high-high, level setpoint",
+        "org:caused_by"
+      ],
+      100
+    ],
+    [
+      [
+        "rapid decrease in Steam Generator water level",
+        "turbine trip",
+        "org:caused_by"
+      ],
+      [
+        "rapid decrease in Steam Generator water level due",
+        "turbine trip",
+        "org:caused_by"
+      ],
+      4
+    ],
+    [
+      [
+        "rapid decrease in Steam Generator water level",
+        "shrink",
+        "org:caused_by"
+      ],
+      [
+        "rapid decrease in Steam Generator water level due",
+        "turbine trip",
+        "org:caused_by"
+      ],
+      13
+    ],
+    [
+      [
+        "automatic reactor trip was initiated",
+        "31 Steam Generator reached the low-low level setpoint",
+        "org:caused_by"
+      ],
+      [
+        "turbine trip (turbine trip)",
+        "level in the 33 Steam Generator reached the high-high, level setpoint",
+        "org:caused_by"
+      ],
+      49
+    ],
+    [
+      [
+        "Auxiliary feedwater actuated per design",
+        "reactor trip",
+        "org:caused_by"
+      ],
+      [
+        "Auxiliary feedwater actuated per design",
+        "reactor trip",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor trip",
+        "cognitive personnel error by a licensed operator",
+        "org:caused_by"
+      ],
+      [
+        "was",
+        "licensed operator",
+        "org:caused_by"
+      ],
+      42
+    ]
+  ],
+  [
+    [
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "1031",
+        "org:happened_at"
+      ],
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "1031",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "July 21, 2006",
+        "org:happened_at"
+      ],
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "July 21, 2006",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "arcing under the main turbine generator (Main Turbine Generator)",
+        "1031",
+        "org:happened_at"
+      ],
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "1031",
+        "org:happened_at"
+      ],
+      47
+    ],
+    [
+      [
+        "arcing under the main turbine generator (Main Turbine Generator)",
+        "July 21, 2006",
+        "org:happened_at"
+      ],
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "July 21, 2006",
+        "org:happened_at"
+      ],
+      47
+    ],
+    [
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "arcing under the main turbine generator (Main Turbine Generator)",
+        "org:caused_by"
+      ],
+      [
+        "Operations initiated a manual reactor trip (reactor trip)",
+        "July 21, 2006",
+        "org:happened_at"
+      ],
+      61
+    ],
+    [
+      [
+        "Auxiliary Feedwater (Auxiliary Feedwater System) system automatically started as expected",
+        "low steam generator (Steam Generator) level",
+        "org:caused_by"
+      ],
+      [
+        "Auxiliary Feedwater (Auxiliary Feedwater System) system automatically started",
+        "low steam generator (Steam Generator) level",
+        "org:caused_by"
+      ],
+      12
+    ],
+    [
+      [
+        "reactor trip",
+        "arcing between metal scaffolding contacting two phases (A&B) of the Iso-phase bus housing",
+        "org:caused_by"
+      ],
+      [
+        "reactor",
+        "arcing between metal scaffolding contacting two phases (A&B) of the Iso-phase bus housing",
+        "org:caused_by"
+      ],
+      5
+    ],
+    [
+      [
+        "reactor trip",
+        "latent Organizational/Programmatic weakness",
+        "org:caused_by"
+      ],
+      [
+        "Emergency Diesel Generators did not start",
+        "offsite power remained available",
+        "org:caused_by"
+      ],
+      69
+    ]
+  ],
+  [
+    [
+      [
+        "failed instruments inside the reactor building (reactor building)",
+        "0141",
+        "org:happened_at"
+      ],
+      [
+        "failed instruments inside the",
+        "0141",
+        "org:happened_at"
+      ],
+      36
+    ],
+    [
+      [
+        "excessive Reactor Coolant System (reactor coolant system) leakage",
+        "0143",
+        "org:happened_at"
+      ],
+      [
+        "excessive Reactor Coolant System (reactor coolant system) leakage",
+        "0143",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "started a rapid controlled shutdown",
+        "0203",
+        "org:happened_at"
+      ],
+      [
+        "started a rapid controlled shutdown",
+        "0203",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "assessing the leak rate",
+        "0143",
+        "org:happened_at"
+      ],
+      [
+        "began assessing the leak rate",
+        "0143",
+        "org:happened_at"
+      ],
+      6
+    ],
+    [
+      [
+        "leakage was approximately 60 to 70 gpm",
+        "0214",
+        "org:happened_at"
+      ],
+      [
+        "approximately",
+        "was",
+        "org:caused_by"
+      ],
+      29
+    ],
+    [
+      [
+        "declared an ALERT",
+        "0214",
+        "org:happened_at"
+      ],
+      [
+        "leakage",
+        "0214",
+        "org:happened_at"
+      ],
+      14
+    ],
+    [
+      [
+        "unit tripped from 33% Fire Protection",
+        "control oscillation",
+        "org:caused_by"
+      ],
+      [
+        "unit tripped from 33% Fire Protection",
+        "control oscillation",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "additional unanticipated Reactor Protective System actuation occurred",
+        "operator error",
+        "org:caused_by"
+      ],
+      [
+        "unanticipated Reactor Protective System actuation occurred",
+        "operator error",
+        "org:caused_by"
+      ],
+      11
+    ],
+    [
+      [
+        "additional unanticipated Reactor Protective System actuation occurred",
+        "0641",
+        "org:happened_at"
+      ],
+      [
+        "unanticipated Reactor Protective System actuation occurred",
+        "operator error",
+        "org:caused_by"
+      ],
+      25
+    ],
+    [
+      [
+        "unit reached cold shutdown",
+        "1720",
+        "org:happened_at"
+      ],
+      [
+        "unit reached cold shutdown",
+        "1720",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "ALERT was terminated",
+        "1720",
+        "org:happened_at"
+      ],
+      [
+        "approximately",
+        "was",
+        "org:caused_by"
+      ],
+      20
+    ],
+    [
+      [
+        "Oconee Unit 3 was operating at 100% Full Power",
+        "November 23, 1991",
+        "org:happened_at"
+      ],
+      [
+        "Oconee Unit 3 was operating at 100% Full Power (Fire Protection)",
+        "November 23, 1991",
+        "org:happened_at"
+      ],
+      18
+    ],
+    [
+      [
+        "unit tripped from 33% Fire Protection",
+        "0327",
+        "org:happened_at"
+      ],
+      [
+        "unit tripped from 33% Fire Protection",
+        "0327",
+        "org:happened_at"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 3 tripped from 100% rated power, Mode 1",
+        "8-31-05",
+        "org:happened_at"
+      ],
+      [
+        "Unit 3 tripped from 100% rated power, Mode 1",
+        "8-31-05",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unit 3 tripped from 100% rated power, Mode 1",
+        "1428:27",
+        "org:happened_at"
+      ],
+      [
+        "Unit 3 tripped from 100% rated power, Mode 1",
+        "1428:27",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Engineered Safeguards (Engineered Safeguards) actuations of the High Pressure Injection, Containment Isolation (partial), and Emergency Power Systems",
+        "trip transient reduced Reactor Coolant System temperature and pressure",
+        "org:caused_by"
+      ],
+      [
+        "Unit 3 tripped from 100% rated power, Mode 1",
+        "1428:27",
+        "org:happened_at"
+      ],
+      195
+    ],
+    [
+      [
+        "trip",
+        "two design deficiencies in a recent (late 2004) modification to the Control Rod Drive system",
+        "org:caused_by"
+      ],
+      [
+        "design changes",
+        "the deficiencies",
+        "org:caused_by"
+      ],
+      90
+    ],
+    [
+      [
+        "Engineered Safeguards actuations",
+        "two design deficiencies in a recent (late 2004) modification to the Control Rod Drive system",
+        "org:caused_by"
+      ],
+      [
+        "design changes",
+        "the deficiencies",
+        "org:caused_by"
+      ],
+      103
+    ]
+  ],
+  [
+    [
+      [
+        "reactor at approximately 91 percent core thermal power",
+        "0827",
+        "org:happened_at"
+      ],
+      [
+        "reactor at approximately 91 percent core thermal power",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      16
+    ],
+    [
+      [
+        "reactor at approximately 91 percent core thermal power",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      [
+        "reactor at approximately 91 percent core thermal power",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "operators manually scrammed the reactor",
+        "0827",
+        "org:happened_at"
+      ],
+      [
+        "operators manually scrammed the reactor",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      16
+    ],
+    [
+      [
+        "operators manually scrammed the reactor",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      [
+        "operators manually scrammed the reactor",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "benchmark for a reactor water level of +42 inches increasing was reached",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      [
+        "benchmark for a reactor water level of +42 inches increasing was reached",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "benchmark for a reactor water level of +42 inches increasing was reached",
+        "0827",
+        "org:happened_at"
+      ],
+      [
+        "benchmark for a reactor water level of +42 inches increasing was reached",
+        "September 6, 2016",
+        "org:happened_at"
+      ],
+      16
+    ],
+    [
+      [
+        "increasing reactor water level",
+        "malfunction of Feedwater Regulating Valve 'A' (feedwater regulator valves 'A')",
+        "org:caused_by"
+      ],
+      [
+        "increasing reactor water level",
+        "malfunction of Feedwater Regulating Valve 'A' (feedwater regulator valves 'A')",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor water level high and low level alarms on the control panel",
+        "feedwater flow oscillations from feedwater regulator valves 'A'",
+        "org:caused_by"
+      ],
+      [
+        "increasing reactor water level",
+        "malfunction of Feedwater Regulating Valve 'A' (feedwater regulator valves 'A')",
+        "org:caused_by"
+      ],
+      88
+    ]
+  ],
+  [
+    [
+      [
+        "inadvertent introduction of waste fluid to the control system fluid reservoir",
+        "August 14, 2005",
+        "org:happened_at"
+      ],
+      [
+        "inadvertent introduction of waste fluid to the control system fluid reservoir",
+        "August 14, 2005",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "contamination of the electro-hydraulic fluid in the turbine control system",
+        "August 14, 2005",
+        "org:happened_at"
+      ],
+      [
+        "inadvertent introduction of waste fluid to the control system fluid reservoir",
+        "August 14, 2005",
+        "org:happened_at"
+      ],
+      56
+    ],
+    [
+      [
+        "Reheat Valve 1B did not re-open",
+        "0250",
+        "org:happened_at"
+      ],
+      [
+        "Reheat Valve 1B did not re-open",
+        "0250 Central",
+        "org:happened_at"
+      ],
+      8
+    ],
+    [
+      [
+        "Reheat Valve 1B did not re-open",
+        "February 26, 2006",
+        "org:happened_at"
+      ],
+      [
+        "Reheat Valve 1B did not re-open",
+        "February 26, 2006",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "event",
+        "contamination of the electro-hydraulic fluid in the turbine control system",
+        "org:caused_by"
+      ],
+      [
+        "event",
+        "contamination of the electro-hydraulic fluid in the turbine control system",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Point Beach Nuclear Plant (Point Beach Nuclear Plant) Unit 2 reactor was manually tripped",
+        "18:20",
+        "org:happened_at"
+      ],
+      [
+        "(Point Beach Nuclear Plant)",
+        "18:20",
+        "org:happened_at"
+      ],
+      62
+    ],
+    [
+      [
+        "Point Beach Nuclear Plant (Point Beach Nuclear Plant) Unit 2 reactor was manually tripped",
+        "June 27, 2001",
+        "org:happened_at"
+      ],
+      [
+        "(Point Beach Nuclear Plant)",
+        "June 27, 2001",
+        "org:happened_at"
+      ],
+      62
+    ],
+    [
+      [
+        "reactor power at approximately 70%",
+        "18:20",
+        "org:happened_at"
+      ],
+      [
+        "Point Beach Nuclear Plant",
+        "18:20",
+        "org:happened_at"
+      ],
+      29
+    ],
+    [
+      [
+        "reactor power at approximately 70%",
+        "June 27, 2001",
+        "org:happened_at"
+      ],
+      [
+        "Point Beach Nuclear Plant",
+        "June 27, 2001",
+        "org:happened_at"
+      ],
+      29
+    ],
+    [
+      [
+        "decrease in pump bay water level",
+        "influx of a large number of small forage fish (Alewives) on the Unit 2 traveling water screens",
+        "org:caused_by"
+      ],
+      [
+        "decrease in pump bay water level",
+        "influx of a large number of small forage fish (Alewives) on the Unit 2 traveling water screens",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "high differential water level across the screens",
+        "influx of a large number of small forage fish (Alewives) on the Unit 2 traveling water screens",
+        "org:caused_by"
+      ],
+      [
+        "decrease in pump bay water level",
+        "influx of a large number of small forage fish (Alewives) on the Unit 2 traveling water screens",
+        "org:caused_by"
+      ],
+      37
+    ],
+    [
+      [
+        "disabling of the traveling screen drive mechanism",
+        "high differential water level across the screens",
+        "org:caused_by"
+      ],
+      [
+        "Point Beach Nuclear Plant",
+        "June 27, 2001",
+        "org:happened_at"
+      ],
+      82
+    ],
+    [
+      [
+        "rapid recovery of the pump bay level",
+        "increased water flow into the pump bay",
+        "org:caused_by"
+      ],
+      [
+        "Point Beach Nuclear Plant",
+        "June 27, 2001",
+        "org:happened_at"
+      ],
+      64
+    ],
+    [
+      [
+        "Unit 2 returned to normal operation",
+        "July 1, 2001",
+        "org:happened_at"
+      ],
+      [
+        "Point Beach Nuclear Plant",
+        "June 27, 2001",
+        "org:happened_at"
+      ],
+      32
+    ],
+    [
+      [
+        "high differential water level across the screens",
+        "influx",
+        "org:caused_by"
+      ],
+      [
+        "high differential water level across the screens",
+        "influx",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Calvert Cliffs Unit 1 (89% power) tripped on Loss of Load",
+        "July 15, 1988",
+        "org:happened_at"
+      ],
+      [
+        "Calvert Cliffs Unit 1 (89% power) tripped on Loss of Load",
+        "July 15, 1988",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Calvert Cliffs Unit 1 (89% power) tripped on Loss of Load",
+        "0305",
+        "org:happened_at"
+      ],
+      [
+        "Calvert Cliffs Unit 1 (89% power) tripped on Loss of Load",
+        "0305",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "failure",
+        "improper adjustment of valve stroke",
+        "org:caused_by"
+      ],
+      [
+        "failure",
+        "improper adjustment of valve stroke",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 1 experienced an automatic reactor trip from 100 percent power",
+        "2248",
+        "org:happened_at"
+      ],
+      [
+        "Unit 1 experienced an automatic reactor trip from 100 percent power",
+        "2248",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unit 1 experienced an automatic reactor trip from 100 percent power",
+        "August 27, 2011",
+        "org:happened_at"
+      ],
+      [
+        "Unit 1 experienced an automatic reactor trip from 100 percent power",
+        "August 27, 2011",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "loss of load occurred",
+        "phase-to-phase short circuit on the main transformer",
+        "org:caused_by"
+      ],
+      [
+        "loss of load occurred",
+        "phase-to-phase short circuit on the main transformer",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "1A Emergency Diesel Generator was declared inoperable",
+        "shorted speed switch",
+        "org:caused_by"
+      ],
+      [
+        "1A Emergency Diesel Generator was declared inoperable",
+        "shorted speed switch",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Beaver Valley Power Station (Beaver Valley Power Station) Unit number 1 running at 100% power",
+        "September 6, 1999",
+        "org:happened_at"
+      ],
+      [
+        "Beaver Valley Power Station (Beaver Valley Power Station) Unit number 1 running at 100% power",
+        "September 6, 1999",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "four alarms were received at 1722: Generator Field Forcing, Generator Field Overcurrent, Voltage Regulator Firing Circuit #1 Blown Fuse/Power Loss, and Voltage Regulator Firing Circuit #2 Blown Fuse/Power Loss",
+        "September 6, 1999",
+        "org:happened_at"
+      ],
+      [
+        "Generator Field Forcing, Generator Field Overcurrent, Voltage Regulator Firing Circuit #1 Blown Fuse/Power Loss, and Voltage Regulator Firing Circuit #2 Blown Fuse/Power Loss",
+        "four alarms were received",
+        "org:caused_by"
+      ],
+      56
+    ],
+    [
+      [
+        "manual actuation of the Reactor Protection System (Reactor Protection System)",
+        "event",
+        "org:caused_by"
+      ],
+      [
+        "automatic actuation of the Auxiliary Feedwater System",
+        "Safety",
+        "org:caused_by"
+      ],
+      53
+    ],
+    [
+      [
+        "automatic actuation of the Auxiliary Feedwater System",
+        "event",
+        "org:caused_by"
+      ],
+      [
+        "automatic actuation of the Auxiliary Feedwater System",
+        "Safety",
+        "org:caused_by"
+      ],
+      5
+    ],
+    [
+      [
+        "event",
+        "electronic circuit open/fault in the Voltage Regulator Logic Drawer of the Main Unit Generator",
+        "org:caused_by"
+      ],
+      [
+        "the",
+        "main generator power factor, VAR and current meters to be fluctuating rapidly above and below normal values",
+        "org:caused_by"
+      ],
+      92
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 2 in Mode 1, 71 percent power",
+        "0530",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 in Mode 1, 71 percent power",
+        "0530",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unit 2 in Mode 1, 71 percent power",
+        " April 24, 1993",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 in Mode 1, 71 percent power",
+        "April 24, 1993",
+        "org:happened_at"
+      ],
+      1
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "0530",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "0530",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        " April 24, 1993",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "April 24, 1993",
+        "org:happened_at"
+      ],
+      1
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "erratic feedwater flow indications to the \"C\" Steam Generator",
+        "org:caused_by"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "erratic feedwater flow indications to the \"C\" Steam Generator",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "abnormally high vibration alarms for the \"B\" Reactor Coolant Pump",
+        "org:caused_by"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "erratic feedwater flow indications to the \"C\" Steam Generator",
+        "org:caused_by"
+      ],
+      49
+    ],
+    [
+      [
+        "\"Alert\" was declared, based on Shift Supervisor judgment",
+        "0602",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 in Mode 1, 71 percent power",
+        "0530",
+        "org:happened_at"
+      ],
+      46
+    ],
+    [
+      [
+        "1 hour report was made to the Nuclear Regulatory Commission",
+        "0620",
+        "org:happened_at"
+      ],
+      [
+        "1 hour report was made to the Nuclear Regulatory Commission",
+        "0620",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "unit in a stable condition",
+        "0816",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 in Mode 1, 71 percent power",
+        "0530",
+        "org:happened_at"
+      ],
+      26
+    ],
+    [
+      [
+        "\"Alert\" classification was down graded to a Notification Of Unusual Event (Notification of Unusual Event)",
+        "0816",
+        "org:happened_at"
+      ],
+      [
+        "Notification of Unusual Event was terminated",
+        "1045",
+        "org:happened_at"
+      ],
+      76
+    ],
+    [
+      [
+        "Notification of Unusual Event was terminated",
+        "1045",
+        "org:happened_at"
+      ],
+      [
+        "Notification of Unusual Event was terminated",
+        "1045",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Notification of Unusual Event was terminated",
+        "April 24, 1993",
+        "org:happened_at"
+      ],
+      [
+        "Notification of Unusual Event was terminated",
+        "April 24, 1993",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "event",
+        "inherent instabilities with the design of the main feedwater regulating valve and positioner controls",
+        "org:caused_by"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "erratic feedwater flow indications to the \"C\" Steam Generator",
+        "org:caused_by"
+      ],
+      105
+    ]
+  ],
+  [
+    [
+      [
+        "pumps tripped",
+        "main generator stator cooling water high temperature actuation",
+        "org:caused_by"
+      ],
+      [
+        "pumps tripped",
+        "main generator stator cooling water high temperature actuation",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "automatic main turbine electro-hydraulic control load set runback",
+        "main generator stator cooling water high temperature actuation",
+        "org:caused_by"
+      ],
+      [
+        "automatic main turbine electro-hydraulic control load set runback",
+        "main generator stator cooling water high temperature actuation",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Reactor water level began to decrease",
+        "feedpumps being in manual",
+        "org:caused_by"
+      ],
+      [
+        "Reactor water level began to decrease",
+        "feedpumps being in manual",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Reactor water level began to decrease",
+        "increase in power from recirc pump speed increases",
+        "org:caused_by"
+      ],
+      [
+        "Reactor water level began to decrease",
+        "feedpumps being in manual",
+        "org:caused_by"
+      ],
+      40
+    ],
+    [
+      [
+        "invalid intermediate runback occurred on the 'A' reactor recirculation pump",
+        "1322",
+        "org:happened_at"
+      ],
+      [
+        "A' Reactor Feed Pump (Reactor Feed Pump)",
+        "1207",
+        "org:happened_at"
+      ],
+      58
+    ],
+    [
+      [
+        "low reactor level scram",
+        "1325",
+        "org:happened_at"
+      ],
+      [
+        "low reactor level scram",
+        "1325",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Nuclear Control Operators (Nuclear Control Operator - Reactor Operator licensed) commenced a reactor power reduction from 100% to 95%",
+        "1207",
+        "org:happened_at"
+      ],
+      [
+        "Operators (Nuclear Control Operator - Reactor Operator licensed) commenced a reactor power reduction from 100",
+        "1207",
+        "org:happened_at"
+      ],
+      24
+    ],
+    [
+      [
+        "Nuclear Control Operators (Nuclear Control Operator - Reactor Operator licensed) commenced a reactor power reduction from 100% to 95%",
+        "Sunday May 15, 1994",
+        "org:happened_at"
+      ],
+      [
+        "Operators (Nuclear Control Operator - Reactor Operator licensed) commenced a reactor power reduction from 100",
+        "May 15, 1994",
+        "org:happened_at"
+      ],
+      31
+    ],
+    [
+      [
+        "'A' Reactor Feed Pump was secured from feeding the reactor vessel",
+        "1300",
+        "org:happened_at"
+      ],
+      [
+        "A' Reactor Feed Pump was secured from feeding the reactor vessel",
+        "1300",
+        "org:happened_at"
+      ],
+      1
+    ],
+    [
+      [
+        "operators began a power increase to 100% of rated using the reactor recirc pumps",
+        "1315",
+        "org:happened_at"
+      ],
+      [
+        "A' Reactor Feed Pump was secured from feeding the reactor vessel",
+        "1300",
+        "org:happened_at"
+      ],
+      51
+    ],
+    [
+      [
+        "new Digital Feedwater Control System (Digital Feedwater Control System) automatically transferred the remaining 'B' & 'C' Reactor Feed Pump's speed control from auto to manual",
+        "1318",
+        "org:happened_at"
+      ],
+      [
+        "new Digital Feedwater Control System (Digital Feedwater Control System) automatically transferred the remaining 'B' & 'C' Reactor Feed Pump's speed control from auto to manual",
+        "1318",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "low reactor level scram",
+        "level transient",
+        "org:caused_by"
+      ],
+      [
+        "low reactor level scram",
+        "1325",
+        "org:happened_at"
+      ],
+      15
+    ],
+    [
+      [
+        "Level 4 alarm (+30 inches)",
+        "1322",
+        "org:happened_at"
+      ],
+      [
+        "began a power increase",
+        "1300",
+        "org:happened_at"
+      ],
+      20
+    ],
+    [
+      [
+        "new Digital Feedwater Control System (Digital Feedwater Control System) automatically transferred the remaining 'B' & 'C' Reactor Feed Pump's speed control from auto to manual",
+        "1317",
+        "org:happened_at"
+      ],
+      [
+        "new Digital Feedwater Control System (Digital Feedwater Control System) automatically transferred the remaining 'B' & 'C' Reactor Feed Pump's speed control from auto to manual",
+        "1318",
+        "org:happened_at"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      [
+        "main generator synchronized to the grid",
+        "May 29, 2007",
+        "org:happened_at"
+      ],
+      [
+        "main generator synchronized to the grid",
+        "May 29, 2007",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "manual scram was initiated",
+        "May 29, 2007",
+        "org:happened_at"
+      ],
+      [
+        "manual scram was initiated",
+        "May 29, 2007",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "loss of a non-safety related motor control center (Motor Control Center)",
+        "slow (dead bus) transfer",
+        "org:caused_by"
+      ],
+      [
+        "loss of a non-safety  related motor control center (Motor Control Center)",
+        "loss of feed water",
+        "org:caused_by"
+      ],
+      18
+    ],
+    [
+      [
+        "loss of feed water",
+        "loss of a non-safety related motor control center (Motor Control Center)",
+        "org:caused_by"
+      ],
+      [
+        "loss of feed water",
+        "loss of a non-safety  related motor control center (Motor Control Center)",
+        "org:caused_by"
+      ],
+      1
+    ],
+    [
+      [
+        "slow bus transfer",
+        "personnel error",
+        "org:caused_by"
+      ],
+      [
+        "loss of feed water",
+        "reactor scram",
+        "org:caused_by"
+      ],
+      26
+    ],
+    [
+      [
+        "loss of 2 reactor feed pumps",
+        "low margin condition asscciated with the reactor feed pump oil system design",
+        "org:caused_by"
+      ],
+      [
+        "loss of 2 reactor feed pumps",
+        "low margin condition asscciated with the reactor  feed pump oil system design",
+        "org:caused_by"
+      ],
+      1
+    ],
+    [
+      [
+        "High Pressure Cooling Injection",
+        "valid emergency core cooling system initiation signal",
+        "org:caused_by"
+      ],
+      [
+        "High Pressure Cooling Injection and  reactor core isolation cooling to start and inject to the core",
+        "valid emergency core cooling system initiation signal",
+        "org:caused_by"
+      ],
+      68
+    ],
+    [
+      [
+        "reactor core isolation cooling to start and inject to the core",
+        "valid emergency core cooling system initiation signal",
+        "org:caused_by"
+      ],
+      [
+        "High Pressure Cooling Injection and  reactor core isolation cooling to start and inject to the core",
+        "valid emergency core cooling system initiation signal",
+        "org:caused_by"
+      ],
+      37
+    ],
+    [
+      [
+        "operating with the reactor at 100% power",
+        "May 29, 2007",
+        "org:happened_at"
+      ],
+      [
+        "the reactor at 100% power",
+        "May 29, 2007",
+        "org:happened_at"
+      ],
+      15
+    ],
+    [
+      [
+        "conditions",
+        "reactor level could not be maintained",
+        "org:caused_by"
+      ],
+      [
+        "loss of feed water",
+        "reactor scram",
+        "org:caused_by"
+      ],
+      43
+    ],
+    [
+      [
+        "operators took the action to manually scram the reactor",
+        "conditions",
+        "org:caused_by"
+      ],
+      [
+        "the reactor at 100% power",
+        "May 29, 2007",
+        "org:happened_at"
+      ],
+      54
+    ]
+  ],
+  [
+    [
+      [
+        "manual reactor scram was initiated by the operator at the controls",
+        "0432",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor scram was initiated by the operator at the controls by",
+        "0432",
+        "org:happened_at"
+      ],
+      3
+    ],
+    [
+      [
+        "manual reactor scram was initiated by the operator at the controls",
+        "January 17, 2009",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor scram was initiated by the operator at the controls by",
+        "January 17, 2009",
+        "org:happened_at"
+      ],
+      3
+    ],
+    [
+      [
+        "locking the mode switch in the SHUTDOWN position",
+        "0432",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor scram was initiated by the operator at the controls by",
+        "0432",
+        "org:happened_at"
+      ],
+      54
+    ],
+    [
+      [
+        "locking the mode switch in the SHUTDOWN position",
+        "January 17, 2009",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor scram was initiated by the operator at the controls by",
+        "January 17, 2009",
+        "org:happened_at"
+      ],
+      54
+    ],
+    [
+      [
+        "runback of the turbine generator",
+        "current/flow comparator circuit of the stator water cooling (Stator Water Cooling) system",
+        "org:caused_by"
+      ],
+      [
+        "runback of the turbine generator",
+        "current/flow comparator circuit of the stator water cooling (Stator Water Cooling) system",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "loss of the Turbine Auxiliary Cooling System (Turbine Auxiliary Cooling System) loads",
+        "solenoid valve failure of one of the Turbine Auxiliaries Cooling System supply isolation valves (EG-HV-2522C)",
+        "org:caused_by"
+      ],
+      [
+        "loss of  the Turbine Auxiliary Cooling System (Turbine Auxiliary Cooling System) loads",
+        "1) a solenoid valve failure of one of the Turbine Auxiliaries Cooling System supply  isolation valves (EG-HV-2522C)",
+        "org:caused_by"
+      ],
+      7
+    ],
+    [
+      [
+        "isolation valve to close",
+        "solenoid valve failure of one of the Turbine Auxiliaries Cooling System supply isolation valves (EG-HV-2522C)",
+        "org:caused_by"
+      ],
+      [
+        "loss of  the Turbine Auxiliary Cooling System (Turbine Auxiliary Cooling System) loads",
+        "1) a solenoid valve failure of one of the Turbine Auxiliaries Cooling System supply  isolation valves (EG-HV-2522C)",
+        "org:caused_by"
+      ],
+      78
+    ],
+    [
+      [
+        "loss of the Turbine Auxiliary Cooling System (Turbine Auxiliary Cooling System) loads",
+        "automatic isolation of the alternate Turbine Auxiliaries Cooling System water supply",
+        "org:caused_by"
+      ],
+      [
+        "loss of  the Turbine Auxiliary Cooling System (Turbine Auxiliary Cooling System) loads",
+        "1) a solenoid valve failure of one of the Turbine Auxiliaries Cooling System supply  isolation valves (EG-HV-2522C)",
+        "org:caused_by"
+      ],
+      67
+    ],
+    [
+      [
+        "automatic isolation of the alternate Turbine Auxiliaries Cooling System water supply",
+        "Lube Oil-Lube Oil-Lube Oil expansion tank level during the automatic transfer",
+        "org:caused_by"
+      ],
+      [
+        "automatic isolation of the alternate Turbine Auxiliaries Cooling System water supply",
+        "Lube Oil-Lube Oil-Lube Oil expansion tank  level during",
+        "org:caused_by"
+      ],
+      24
+    ],
+    [
+      [
+        "Stator Water Cooling temperatures to increase",
+        "loss of cooling to the Turbine Auxiliary Cooling System loads",
+        "org:caused_by"
+      ],
+      [
+        "runback of the turbine generator",
+        "current/flow comparator circuit of the stator water cooling (Stator Water Cooling) system",
+        "org:caused_by"
+      ],
+      96
+    ],
+    [
+      [
+        "activating the runback circuitry for the turbine generator and the recirculation motor generators",
+        "loss of cooling to the Turbine Auxiliary Cooling System loads",
+        "org:caused_by"
+      ],
+      [
+        "current/flow comparator circuit of the stator water cooling (Stator Water Cooling) system",
+        "runback of the turbine generator",
+        "org:caused_by"
+      ],
+      112
+    ],
+    [
+      [
+        "Emergency Notification System notification was made",
+        "0725",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor scram was initiated by the operator at the controls by",
+        "0432",
+        "org:happened_at"
+      ],
+      58
+    ],
+    [
+      [
+        "Emergency Notification System notification was made",
+        "January 17, 2009",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor scram was initiated by the operator at the controls by",
+        "January 17, 2009",
+        "org:happened_at"
+      ],
+      55
+    ],
+    [
+      [
+        "system to transfer to the alternate Turbine Auxiliary Cooling System supply",
+        "solenoid valve failure of one of the Turbine Auxiliaries Cooling System supply isolation valves (EG-HV-2522C)",
+        "org:caused_by"
+      ],
+      [
+        "loss of  the Turbine Auxiliary Cooling System (Turbine Auxiliary Cooling System) loads",
+        "1) a solenoid valve failure of one of the Turbine Auxiliaries Cooling System supply  isolation valves (EG-HV-2522C)",
+        "org:caused_by"
+      ],
+      49
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 1 experienced a Reactor/Turbine Trip",
+        "2142",
+        "org:happened_at"
+      ],
+      [
+        "Unit 1 experienced a Reactor/Turbine Trip",
+        "2142",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unit 1 experienced a Reactor/Turbine Trip",
+        "February 19, 1991",
+        "org:happened_at"
+      ],
+      [
+        "Unit 1 experienced a Reactor/Turbine Trip",
+        "February 19, 1991",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor trip breaker 1B opened",
+        "cubicle door was pushed closed",
+        "org:caused_by"
+      ],
+      [
+        "manual start",
+        "the",
+        "org:caused_by"
+      ],
+      54
+    ],
+    [
+      [
+        "tripping the Reactor",
+        "reactor trip breaker 1B opened",
+        "org:caused_by"
+      ],
+      [
+        "manual start",
+        "the",
+        "org:caused_by"
+      ],
+      44
+    ],
+    [
+      [
+        "generating a \"Nuclear Instrumentation System Hi Flux Rate Power Range Reactor Trip\" trip signal",
+        "Control Rods dropped into the Reactor core",
+        "org:caused_by"
+      ],
+      [
+        "Nuclear Instrumentation System Hi Flux Rate Power Range Reactor Trip\" trip signal",
+        "Control Rods dropped into the Reactor core",
+        "org:caused_by"
+      ],
+      14
+    ],
+    [
+      [
+        "event",
+        "Management Deficiency",
+        "org:caused_by"
+      ],
+      [
+        "the",
+        "of",
+        "org:caused_by"
+      ],
+      24
+    ],
+    [
+      [
+        "event",
+        "Possible Inappropriate Action",
+        "org:caused_by"
+      ],
+      [
+        "the",
+        "of",
+        "org:caused_by"
+      ],
+      32
+    ],
+    [
+      [
+        "OPERATIONS personnel returned Unit 1 to Mode 1",
+        "February 21, 1991",
+        "org:happened_at"
+      ],
+      [
+        "personnel returned Unit 1 to Mode 1",
+        "February 21, 1991",
+        "org:happened_at"
+      ],
+      11
+    ],
+    [
+      [
+        "OPERATIONS personnel returned Unit 1 to Mode 1",
+        "1815",
+        "org:happened_at"
+      ],
+      [
+        "personnel returned Unit 1 to Mode 1",
+        "February 21, 1991",
+        "org:happened_at"
+      ],
+      26
+    ],
+    [
+      [
+        "manual start of the Motor Driven Auxiliary Feedwater Pumps",
+        "2143:58",
+        "org:happened_at"
+      ],
+      [
+        "Motor Driven Auxiliary Feedwater Pumps",
+        "2143:58",
+        "org:happened_at"
+      ],
+      20
+    ]
+  ],
+  [
+    [
+      [
+        "Reactor Power Cutback and Turbine Setback to 50% governor valve position occurred",
+        "April 26, 1994",
+        "org:happened_at"
+      ],
+      [
+        "Reactor Power Cutback and Turbine Setback to 50% governor valve position occurred",
+        "April 26, 1994",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Reactor Power Cutback and Turbine Setback to 50% governor valve position occurred",
+        "0808",
+        "org:happened_at"
+      ],
+      [
+        "Reactor Power Cutback and Turbine Setback to 50% governor valve position occurred",
+        "0808",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "placing the Reactor Power Cutback system in service at 70% reactor power",
+        "April 26, 1994",
+        "org:happened_at"
+      ],
+      [
+        "Reactor Power Cutback and Turbine Setback to 50% governor valve position occurred",
+        "April 26, 1994",
+        "org:happened_at"
+      ],
+      55
+    ],
+    [
+      [
+        "placing the Reactor Power Cutback system in service at 70% reactor power",
+        "0808",
+        "org:happened_at"
+      ],
+      [
+        "Reactor Power Cutback and Turbine Setback to 50% governor valve position occurred",
+        "0808",
+        "org:happened_at"
+      ],
+      55
+    ],
+    [
+      [
+        "Reactor Power Cutback actuation",
+        "presence of an erroneous Feedwater pump 'B' trip input signal to the Reactor Power Cutback circuitry",
+        "org:caused_by"
+      ],
+      [
+        "Reactor Power Cutback actuation",
+        "erroneous Feedwater pump 'B' trip input signal to the Reactor Power Cutback circuitry",
+        "org:caused_by"
+      ],
+      15
+    ],
+    [
+      [
+        "low Pressurizer pressure",
+        "cooldown",
+        "org:caused_by"
+      ],
+      [
+        "Reactor Power Cutback actuation",
+        "presence of an",
+        "org:caused_by"
+      ],
+      37
+    ],
+    [
+      [
+        "reactor trip",
+        "cooldown",
+        "org:caused_by"
+      ],
+      [
+        "Reactor Power Cutback actuation",
+        "presence of an",
+        "org:caused_by"
+      ],
+      34
+    ],
+    [
+      [
+        "cooldown",
+        "mismatch between turbine power and reactor power",
+        "org:caused_by"
+      ],
+      [
+        "Reactor Power Cutback actuation",
+        "presence of an",
+        "org:caused_by"
+      ],
+      65
+    ],
+    [
+      [
+        "erroneous Feedwater pump 'B' trip input signal",
+        "failure of a Westinghouse model BFD44S non-safety relay",
+        "org:caused_by"
+      ],
+      [
+        "erroneous Feedwater pump 'B' trip input signal",
+        "failure of a Westinghouse model BFD44S",
+        "org:caused_by"
+      ],
+      17
+    ],
+    [
+      [
+        "automatic reactor trip occurred",
+        "low Pressurizer Pressure Core Protection Calculator Auxiliary trip set at 1860 psia",
+        "org:caused_by"
+      ],
+      [
+        "Reactor Power Cutback actuation",
+        "erroneous Feedwater pump 'B' trip input signal to the Reactor Power Cutback circuitry",
+        "org:caused_by"
+      ],
+      96
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 2 in Condition 1 (Power Operation) at 100% power",
+        "1801",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 in Condition 1 (Power Operation) at 100% power",
+        "1801",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Unit 2 in Condition 1 (Power Operation) at 100% power",
+        "July 14, 1996",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 in Condition 1 (Power Operation) at 100% power",
+        "July 14, 1996",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "unit was manually scrammed",
+        "1801",
+        "org:happened_at"
+      ],
+      [
+        "unit was manually scrammed",
+        "1801",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "unit was manually scrammed",
+        "July 14, 1996",
+        "org:happened_at"
+      ],
+      [
+        "unit was manually scrammed",
+        "July 14, 1996",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "failure of the auxiliary bus to energize",
+        "two leads not being terminated on a protective relay for one of the bus tie breakers",
+        "org:caused_by"
+      ],
+      [
+        "failure of the auxiliary bus to energize",
+        "two leads not being terminated on a protective relay",
+        "org:caused_by"
+      ],
+      32
+    ],
+    [
+      [
+        "two leads not being terminated on a protective relay for one of the bus tie breakers",
+        "personnel error",
+        "org:caused_by"
+      ],
+      [
+        "Unit 2 in Condition 1 (Power Operation) at 100% power",
+        "July 14, 1996",
+        "org:happened_at"
+      ],
+      73
+    ],
+    [
+      [
+        "false unbalanced load on the bus",
+        "unterminate leads",
+        "org:caused_by"
+      ],
+      [
+        "unit was manually scrammed",
+        "July 14, 1996",
+        "org:happened_at"
+      ],
+      43
+    ],
+    [
+      [
+        "deenergizing the bus",
+        "lock-out of the auxiliary bus",
+        "org:caused_by"
+      ],
+      [
+        "unit was manually scrammed",
+        "July 14, 1996",
+        "org:happened_at"
+      ],
+      50
+    ],
+    [
+      [
+        "deenergizing the bus",
+        "Per design, the protective relaying immediately initiated a trip",
+        "org:caused_by"
+      ],
+      [
+        "failure of the auxiliary bus to energize",
+        "two leads not being terminated on a protective relay",
+        "org:caused_by"
+      ],
+      82
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 2 experienced an electrical transient",
+        "5/12/16",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 experienced an electrical transient",
+        "12",
+        "org:happened_at"
+      ],
+      5
+    ],
+    [
+      [
+        "Unit 2 experienced an electrical transient",
+        "23:55",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 experienced an electrical transient",
+        "23:55",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "loss of 2B246 Reactor Building Engineered Safeguard System (Engineered Safeguard System) Division 480 volt Motor Control Center (Motor Control Center) and 2Y246 208/120 Volt Alternate Current (Alternating Current) Instrument Panel",
+        "5/12/16",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 experienced an electrical transient",
+        "12",
+        "org:happened_at"
+      ],
+      205
+    ],
+    [
+      [
+        "loss of 2B246 Reactor Building Engineered Safeguard System (Engineered Safeguard System) Division 480 volt Motor Control Center (Motor Control Center) and 2Y246 208/120 Volt Alternate Current (Alternating Current) Instrument Panel",
+        "23:55",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2 experienced an electrical transient",
+        "23:55",
+        "org:happened_at"
+      ],
+      200
+    ],
+    [
+      [
+        "loss of 2B246 Reactor Building Engineered Safeguard System (Engineered Safeguard System) Division 480 volt Motor Control Center (Motor Control Center) and 2Y246 208/120 Volt Alternate Current (Alternating Current) Instrument Panel",
+        "Unit 2 experienced an electrical transient",
+        "org:caused_by"
+      ],
+      [
+        "several drywell cooling fans were lost",
+        "increase in drywell pressure",
+        "org:caused_by"
+      ],
+      233
+    ],
+    [
+      [
+        "increase in drywell pressure",
+        "several drywell cooling fans were lost",
+        "org:caused_by"
+      ],
+      [
+        "immediately restored",
+        "normal feedwater level control",
+        "org:caused_by"
+      ],
+      49
+    ],
+    [
+      [
+        "Unit 2 was manually scrammed",
+        "5/13/16",
+        "org:happened_at"
+      ],
+      [
+        "2 was manually scrammed",
+        "0110",
+        "org:happened_at"
+      ],
+      10
+    ],
+    [
+      [
+        "Unit 2 was manually scrammed",
+        "0110",
+        "org:happened_at"
+      ],
+      [
+        "2 was manually scrammed",
+        "0110",
+        "org:happened_at"
+      ],
+      5
+    ],
+    [
+      [
+        "transient",
+        "phase to ground short between a cable and a protruding screw in Motor Control Center bucket 2B246091, Drywell Area Unit Cooler 2V411B Breaker",
+        "org:caused_by"
+      ],
+      [
+        "immediately restored",
+        "normal feedwater level control",
+        "org:caused_by"
+      ],
+      138
+    ]
+  ],
+  [
+    [
+      [
+        "operating at rated power",
+        "February 4, 1988",
+        "org:happened_at"
+      ],
+      [
+        "operating at rated power",
+        "February 4, 1988",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "operating at rated power",
+        "0150",
+        "org:happened_at"
+      ],
+      [
+        "operating at rated power",
+        "0150",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Nuclear Steam Supply Shutoff System (Nuclear Steam Supply Shutoff System) Group 1 Main Steam Isolation Valves isolation",
+        "simultaneously tripping one Low Condenser Vacuum channel in each Main Steam Isolation Valves closure trip system",
+        "org:caused_by"
+      ],
+      [
+        "Nuclear Steam Supply Shutoff System (Nuclear Steam Supply Shutoff System) Group 1 Main Steam Isolation Valves isolation",
+        "tripping one Low Condenser Vacuum channel in each Main Steam Isolation Valves closure trip system (one out of two twice logic)",
+        "org:caused_by"
+      ],
+      44
+    ],
+    [
+      [
+        "initiated a Reactor scram",
+        "All four Reactor Protection System (Reactor Protection System) Main Steam Isolation Valves closure channels tripped",
+        "org:caused_by"
+      ],
+      [
+        "Reactor to scram",
+        "Main Steamline Isolation Valves (main steam isolation valves) to close",
+        "org:caused_by"
+      ],
+      86
+    ],
+    [
+      [
+        "reactor core isolation cooling System to shutdown",
+        "opening the safety relief valves exceeded the Reactor high water level trip setpoint",
+        "org:caused_by"
+      ],
+      [
+        "reactor core isolation cooling System to shutdown",
+        "Reactor water level swell associated with opening the safety relief valves exceeded the Reactor high water level trip setpoint",
+        "org:caused_by"
+      ],
+      42
+    ],
+    [
+      [
+        "was restarted",
+        "February 5, 1988",
+        "org:happened_at"
+      ],
+      [
+        "it was restarted",
+        "February 5, 1988",
+        "org:happened_at"
+      ],
+      3
+    ],
+    [
+      [
+        "was restarted",
+        "1300",
+        "org:happened_at"
+      ],
+      [
+        "it was restarted",
+        "1300",
+        "org:happened_at"
+      ],
+      3
+    ]
+  ],
+  [
+    [
+      [
+        "Unit in Power operation",
+        "2/12/89",
+        "org:happened_at"
+      ],
+      [
+        "Unit in Power operation",
+        "12",
+        "org:happened_at"
+      ],
+      5
+    ],
+    [
+      [
+        "power reduction from 90% reactor power to 50% reactor power was in progress",
+        "2/12/89",
+        "org:happened_at"
+      ],
+      [
+        "power reduction from 90% reactor power to 50% reactor power",
+        "12",
+        "org:happened_at"
+      ],
+      21
+    ],
+    [
+      [
+        "erratic operation of the \"C\" Main Feedwater Regulating Valve (Main Feedwater Regulating Valve)",
+        "0048",
+        "org:happened_at"
+      ],
+      [
+        "erratic operation of the \"C\" Main Feedwater Regulating Valve (Main Feedwater Regulating Valve)",
+        "0048",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "approximately 55% reactor powe",
+        "0108",
+        "org:happened_at"
+      ],
+      [
+        "approximately 55% reactor power",
+        "0108",
+        "org:happened_at"
+      ],
+      1
+    ],
+    [
+      [
+        "\"A\" Main Feedwater Pump was shutdown",
+        "0108",
+        "org:happened_at"
+      ],
+      [
+        "\"A\" Main Feedwater Pump was shutdown",
+        "0108",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "turbine trip/reactor trip occurred",
+        "0120",
+        "org:happened_at"
+      ],
+      [
+        "reactor trip occurred",
+        "0120",
+        "org:happened_at"
+      ],
+      13
+    ],
+    [
+      [
+        "turbine trip/reactor trip occurred",
+        "high water level in the \"C\" steam generator",
+        "org:caused_by"
+      ],
+      [
+        "reactor trip occurred",
+        "high water level in the \"C\" steam generator",
+        "org:caused_by"
+      ],
+      13
+    ],
+    [
+      [
+        "valve failure",
+        "hydraulic forces and vibration acting over time",
+        "org:caused_by"
+      ],
+      [
+        "valve failure",
+        "hydraulic forces",
+        "org:caused_by"
+      ],
+      31
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 2 was in Mode 1",
+        "1603",
+        "org:happened_at"
+      ],
+      [
+        "Main Turbine tripped",
+        "1603",
+        "org:happened_at"
+      ],
+      17
+    ],
+    [
+      [
+        "Unit 2 was in Mode 1",
+        "May 1, 1995",
+        "org:happened_at"
+      ],
+      [
+        "Main Turbine tripped",
+        "May 1, 1995",
+        "org:happened_at"
+      ],
+      17
+    ],
+    [
+      [
+        "Power Operation at 14%",
+        "1603",
+        "org:happened_at"
+      ],
+      [
+        "Main Turbine tripped",
+        "1603",
+        "org:happened_at"
+      ],
+      19
+    ],
+    [
+      [
+        "Power Operation at 14%",
+        "May 1, 1995",
+        "org:happened_at"
+      ],
+      [
+        "Main Turbine tripped",
+        "May 1, 1995",
+        "org:happened_at"
+      ],
+      19
+    ],
+    [
+      [
+        "Main Turbine tripped",
+        "1603",
+        "org:happened_at"
+      ],
+      [
+        "Main Turbine tripped",
+        "1603",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Main Turbine tripped",
+        "May 1, 1995",
+        "org:happened_at"
+      ],
+      [
+        "Main Turbine tripped",
+        "May 1, 1995",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Main Turbine tripped",
+        "loss of both Main Feedwater (Main Feedwater) System Pumps",
+        "org:caused_by"
+      ],
+      [
+        "Main Turbine tripped",
+        "loss of both Main Feedwater (Main Feedwater) System Pumps",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Reactor was manually tripped",
+        "loss of Main Feedwater",
+        "org:caused_by"
+      ],
+      [
+        "Reactor was manually tripped",
+        "loss of Main Feedwater",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Main Feedwater System isolation signal was generated",
+        "Reactor Trip with low Reactor Coolant (NC) System Average Temperature (T-ave)",
+        "org:caused_by"
+      ],
+      [
+        "Main Feedwater System isolation signal was generated",
+        "Reactor Trip with low Reactor Coolant (NC) System Average Temperature (T-ave)",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Auxiliary Feedwater (Auxiliary Feedwater) System motor driven pumps autostarted as expected",
+        "loss of Main Feedwater",
+        "org:caused_by"
+      ],
+      [
+        "Auxiliary Feedwater (Auxiliary Feedwater) System motor driven pumps autostarted as",
+        "loss of Main Feedwater",
+        "org:caused_by"
+      ],
+      9
+    ],
+    [
+      [
+        "NC System T-ave to cooldown below 553 degrees Fahrenheit",
+        "Auxiliary Feedwater System autostart",
+        "org:caused_by"
+      ],
+      [
+        "NC System T-ave to cooldown below 553 degrees Fahrenheit",
+        "Auxiliary Feedwater System autostart",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Steam Dump System to isolate on a P- 12 permissive (Lo-Lo T-ave)",
+        "NC System T-ave to cooldown below 553 degrees Fahrenheit",
+        "org:caused_by"
+      ],
+      [
+        "Steam Dump System to isolate on a P- 12 permissive (Lo-Lo T-ave)",
+        "NC System T-ave to cooldown below 553 degrees Fahrenheit",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "operating at steady state conditions",
+        "0630",
+        "org:happened_at"
+      ],
+      [
+        "operating at steady state conditions",
+        "0630",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "operating at steady state conditions",
+        "9/15/00",
+        "org:happened_at"
+      ],
+      [
+        "operating at steady state conditions",
+        "15",
+        "org:happened_at"
+      ],
+      5
+    ],
+    [
+      [
+        "reactor scram occurred",
+        "0630",
+        "org:happened_at"
+      ],
+      [
+        "reactor scram occurred",
+        "0630",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor scram occurred",
+        "9/15/00",
+        "org:happened_at"
+      ],
+      [
+        "reactor scram occurred",
+        "15",
+        "org:happened_at"
+      ],
+      5
+    ],
+    [
+      [
+        "reactor protection system actuation",
+        "turbine control valve fast closure signal",
+        "org:caused_by"
+      ],
+      [
+        "scram",
+        "turbine control valve fast closure signal",
+        "org:caused_by"
+      ],
+      32
+    ],
+    [
+      [
+        "turbine control valve fast closure signal",
+        "generator load transient",
+        "org:caused_by"
+      ],
+      [
+        "signal",
+        "generator load transient",
+        "org:caused_by"
+      ],
+      35
+    ],
+    [
+      [
+        "generator load transient",
+        "failure of a 500 kV circuit breaker located in an offsite switchyard",
+        "org:caused_by"
+      ],
+      [
+        "generator load transient",
+        "failure of a 500 kV circuit breaker",
+        "org:caused_by"
+      ],
+      33
+    ],
+    [
+      [
+        "generator load reject was sensed",
+        "grid voltage transient",
+        "org:caused_by"
+      ],
+      [
+        "generator load reject was sensed",
+        "grid voltage transient",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "generator load demand to automatically switch off",
+        "generator load reject was sensed",
+        "org:caused_by"
+      ],
+      [
+        "generator load demand to automatically switch off",
+        "generator load reject was sensed",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Division III diesel generator started on undervoltage as designed, tied to and provided power to the 17AC bus",
+        "low grid voltage",
+        "org:caused_by"
+      ],
+      [
+        "generator load demand to automatically switch off",
+        "grid voltage transient",
+        "org:caused_by"
+      ],
+      95
+    ],
+    [
+      [
+        "scram",
+        "reactor protection system actuation",
+        "org:caused_by"
+      ],
+      [
+        "scram",
+        "reactor protection system actuation from a",
+        "org:caused_by"
+      ],
+      7
+    ],
+    [
+      [
+        "signal",
+        "generator load transient",
+        "org:caused_by"
+      ],
+      [
+        "signal",
+        "generator load transient",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Turbine Control Valves did not go full closed",
+        "speed demand signal that was still present",
+        "org:caused_by"
+      ],
+      [
+        "generator load reject was sensed",
+        "grid voltage transient",
+        "org:caused_by"
+      ],
+      63
+    ]
+  ],
+  [
+    [
+      [
+        "operating in MODE 1 at approximately 84 percent power",
+        "0239",
+        "org:happened_at"
+      ],
+      [
+        "operating in MODE 1 at approximately 84 percent power",
+        "0239",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "operating in MODE 1 at approximately 84 percent power",
+        "November 6, 2020",
+        "org:happened_at"
+      ],
+      [
+        "operating in MODE 1 at approximately 84 percent power",
+        "November 6, 2020",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow",
+        "November 6, 2020",
+        "org:happened_at"
+      ],
+      [
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow to generator bushing C",
+        "November 6, 2020",
+        "org:happened_at"
+      ],
+      23
+    ],
+    [
+      [
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow",
+        "0239",
+        "org:happened_at"
+      ],
+      [
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow to generator bushing C",
+        "0239",
+        "org:happened_at"
+      ],
+      23
+    ],
+    [
+      [
+        "event",
+        "Entergy Engineering Leadership (Corporate Projects and Site Engineering) made changes to the design of the primary water bushing flow instrumentation loop",
+        "org:caused_by"
+      ],
+      [
+        "automatic turbine trip",
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow to generator bushing C",
+        "org:caused_by"
+      ],
+      131
+    ],
+    [
+      [
+        "automatic turbine trip",
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow",
+        "org:caused_by"
+      ],
+      [
+        "automatic turbine trip",
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow to generator bushing C",
+        "org:caused_by"
+      ],
+      23
+    ],
+    [
+      [
+        "reactor Scram",
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow",
+        "org:caused_by"
+      ],
+      [
+        "automatic turbine trip",
+        "Grand Gulf Nuclear Station received a signal for low Primary Water system flow to generator bushing C",
+        "org:caused_by"
+      ],
+      40
+    ]
+  ],
+  [
+    [
+      [
+        "plant at 48% power in Mode 1",
+        "1201",
+        "org:happened_at"
+      ],
+      [
+        "plant at 48% power in Mode 1",
+        "1201",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "plant at 48% power in Mode 1",
+        "April 16, 1990",
+        "org:happened_at"
+      ],
+      [
+        "plant at 48% power in Mode 1",
+        "April 16, 1990",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "1201",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "1201",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "April 16, 1990",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "April 16, 1990",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "automatic trip of 3CWS-P1B",
+        "rapid buildup of seaweed on \"B\" Traveling Screen",
+        "org:caused_by"
+      ],
+      [
+        "automatic trip of 3CWS-P1B",
+        "rapid buildup of seaweed on \"B\" Traveling Screen",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "automatic trip of 3CWS-P1B",
+        "high screen differential level",
+        "org:caused_by"
+      ],
+      [
+        "automatic trip of 3CWS-P1B",
+        "high screen differential level",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Main Turbine and Generator trip",
+        "reactor trip",
+        "org:caused_by"
+      ],
+      [
+        "Main Turbine and Generator trip in accordance",
+        "reactor trip",
+        "org:caused_by"
+      ],
+      14
+    ],
+    [
+      [
+        "severe weather procedure was revised",
+        "August 1, 1990",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was initiated",
+        "April 16, 1990",
+        "org:happened_at"
+      ],
+      30
+    ],
+    [
+      [
+        "manual reactor trip was initiated",
+        "loss of condenser vacuum",
+        "org:caused_by"
+      ],
+      [
+        "reactor trip was initiated",
+        "low condenser vacuum",
+        "org:caused_by"
+      ],
+      12
+    ],
+    [
+      [
+        "event",
+        "inadequate administrative guidance in that debris was allowed to collect on the trash rack",
+        "org:caused_by"
+      ],
+      [
+        "event",
+        "inadequate administrative guidance in that",
+        "org:caused_by"
+      ],
+      48
+    ]
+  ],
+  [
+    [
+      [
+        "plant startup",
+        "1754",
+        "org:happened_at"
+      ],
+      [
+        "plant startup",
+        "1754",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "plant startup",
+        "April 30, 1988",
+        "org:happened_at"
+      ],
+      [
+        "plant startup",
+        "April 30, 1988",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor scram occurred",
+        "1754",
+        "org:happened_at"
+      ],
+      [
+        "reactor scram occurred",
+        "1754",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor scram occurred",
+        "April 30, 1988",
+        "org:happened_at"
+      ],
+      [
+        "reactor scram occurred",
+        "April 30, 1988",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "reactor scram occurred",
+        "reactor water level of less than Level 3 (+177.7 inches above top of active fuel)",
+        "org:caused_by"
+      ],
+      [
+        "reactor scram occurred",
+        "reactor water level of less than Level 3 (+177.7 inches above top of active fuel)",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "level transient",
+        "steam bypass valves opened unexpectedly upon opening of the B Main Steam Isolation Valve (Main Steam Isolation Valves)",
+        "org:caused_by"
+      ],
+      [
+        "level transient",
+        "opening of the B Main Steam Isolation Valve (Main Steam Isolation Valves)",
+        "org:caused_by"
+      ],
+      45
+    ]
+  ],
+  [
+    [
+      [
+        "generated a reactor trip signal",
+        "Re-energizing the Source Range high voltage power supply",
+        "org:caused_by"
+      ],
+      [
+        "Reactor",
+        "Operator accidentally bumped switch 1/1-N-33B",
+        "org:caused_by"
+      ],
+      73
+    ],
+    [
+      [
+        "slight decrease in reactor coolant system Temperature",
+        "Auxiliary Boiler failed to start",
+        "org:caused_by"
+      ],
+      [
+        "slight decrease in reactor coolant system Temperature",
+        "plant being stabilized in Mode 3",
+        "org:caused_by"
+      ],
+      25
+    ],
+    [
+      [
+        "generated a Feedwater Isolation signal",
+        "The reactor trip coincident with a low-average Reactor Coolant System (reactor coolant system) temperature",
+        "org:caused_by"
+      ],
+      [
+        "Reactor",
+        "Operator accidentally bumped switch 1/1-N-33B",
+        "org:caused_by"
+      ],
+      116
+    ],
+    [
+      [
+        "Auxiliary Boiler failed to start",
+        "faulty igniter assembly",
+        "org:caused_by"
+      ],
+      [
+        "Auxiliary Boiler failed to start",
+        "faulty igniter assembly",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "dusting the main control board",
+        "April 21, 1990",
+        "org:happened_at"
+      ],
+      [
+        "dusting the main control board",
+        "April 21, 1990",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "dusting the main control board",
+        "1715",
+        "org:happened_at"
+      ],
+      [
+        "dusting the main control board",
+        "1715",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Reactor Operator accidentally bumped switch 1/1-N-33B and reset Source Range Channel N31",
+        "1715",
+        "org:happened_at"
+      ],
+      [
+        "Operator accidentally bumped switch 1/1-N-33B",
+        "1715",
+        "org:happened_at"
+      ],
+      43
+    ],
+    [
+      [
+        "Reactor Operator accidentally bumped switch 1/1-N-33B and reset Source Range Channel N31",
+        "April 21, 1990",
+        "org:happened_at"
+      ],
+      [
+        "Operator accidentally bumped switch 1/1-N-33B",
+        "April 21, 1990",
+        "org:happened_at"
+      ],
+      43
+    ]
+  ],
+  [
+    [
+      [
+        "performing scheduled Slave Relay Surveillance 1BOS 3.2.1-980 \"Unit One Engineered Safeguard Features Actuation System Instrumentation Slave Relay Surveillance (Train A Feedwater Isolation, Reactor Trip K637)\"",
+        "1240",
+        "org:happened_at"
+      ],
+      [
+        "performing scheduled Slave Relay Surveillance 1BOS 3.2.1-980 \"Unit One Engineered Safeguard Features Actuation System Instrumentation Slave Relay Surveillance (Train A Feedwater Isolation, Reactor Trip K637)\" an actual Feedwater (feedwater) SJ! Isolation Signal (feedwaterI) was generated",
+        "1240",
+        "org:happened_at"
+      ],
+      80
+    ],
+    [
+      [
+        "performing scheduled Slave Relay Surveillance 1BOS 3.2.1-980 \"Unit One Engineered Safeguard Features Actuation System Instrumentation Slave Relay Surveillance (Train A Feedwater Isolation, Reactor Trip K637)\"",
+        "December 3, 1990",
+        "org:happened_at"
+      ],
+      [
+        "performing scheduled Slave Relay Surveillance 1BOS 3.2.1-980 \"Unit One Engineered Safeguard Features Actuation System Instrumentation Slave Relay Surveillance (Train A Feedwater Isolation, Reactor Trip K637)\" an actual Feedwater (feedwater) SJ! Isolation Signal (feedwaterI) was generated",
+        "December 3, 1990",
+        "org:happened_at"
+      ],
+      80
+    ],
+    [
+      [
+        "actual Feedwater (feedwater) SJ! Isolation Signal (feedwaterI) was generated",
+        "1240",
+        "org:happened_at"
+      ],
+      [
+        "dual position indication",
+        "of valve 1feedwater039A",
+        "org:caused_by"
+      ],
+      82
+    ],
+    [
+      [
+        "actual Feedwater (feedwater) SJ! Isolation Signal (feedwaterI) was generated",
+        "December 3, 1990",
+        "org:happened_at"
+      ],
+      [
+        "dual position indication",
+        "of valve 1feedwater039A",
+        "org:caused_by"
+      ],
+      81
+    ],
+    [
+      [
+        "loss of feedwater",
+        "actual Feedwater (feedwater) SJ! Isolation Signal (feedwaterI) was generated",
+        "org:caused_by"
+      ],
+      [
+        "dual position indication",
+        "of valve 1feedwater039A",
+        "org:caused_by"
+      ],
+      80
+    ]
+  ],
+  [
+    [
+      [
+        "Braidwood Unit 1 reactor tripped from 100% power",
+        "0921",
+        "org:happened_at"
+      ],
+      [
+        "Braidwood Unit 1 reactor tripped from 100% power",
+        "0921",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Braidwood Unit 1 reactor tripped from 100% power",
+        "June 27, 2007",
+        "org:happened_at"
+      ],
+      [
+        "Braidwood Unit 1 reactor tripped from 100% power",
+        "June 27, 2007",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "rapid reduction of coolant flow in the 1D reactor coolant loop",
+        "shutdown of the reactor coolant pump (reactor coolant pump)",
+        "org:caused_by"
+      ],
+      [
+        "rapid reduction of coolant flow in the 1D reactor coolant loop",
+        "shutdown of the reactor coolant pump (reactor coolant pump)",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Reactor Protection System actuation to trip the Unit 1 reactor",
+        "rapid reduction of coolant flow in the 1D reactor coolant loop",
+        "org:caused_by"
+      ],
+      [
+        "shutdown of the reactor coolant pump (reactor coolant pump)",
+        "rapid reduction of coolant flow in the 1D reactor coolant loop",
+        "org:caused_by"
+      ],
+      51
+    ],
+    [
+      [
+        "Unit 1 trip",
+        "latent design weakness in the reactor coolant pump protective scheme that permitted the existence of an undetected component failure",
+        "org:caused_by"
+      ],
+      [
+        "rapid reduction of coolant flow in the 1D reactor coolant loop",
+        "shutdown of the reactor coolant pump (reactor coolant pump)",
+        "org:caused_by"
+      ],
+      140
+    ],
+    [
+      [
+        "grid disturbance-intolerant vulnerability",
+        "latent design weakness in the reactor coolant pump protective scheme that permitted the existence of an undetected component failure",
+        "org:caused_by"
+      ],
+      [
+        "rapid reduction of coolant flow in the 1D reactor coolant loop",
+        "shutdown of the reactor coolant pump (reactor coolant pump)",
+        "org:caused_by"
+      ],
+      133
+    ],
+    [
+      [
+        "actuation of protective relays for the 1D reactor coolant pump",
+        "disturbance",
+        "org:caused_by"
+      ],
+      [
+        "actuation of protective relays for the 1D reactor coolant pump",
+        "disturbance",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Generator Neutral Ground Overcurrent backup protective relay actuated",
+        "December 1, 1991",
+        "org:happened_at"
+      ],
+      [
+        "Generator Neutral Ground Overcurrent backup protective relay actuated",
+        "December 1, 1991",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "Generator Neutral Ground Overcurrent backup protective relay actuated",
+        "1738",
+        "org:happened_at"
+      ],
+      [
+        "Generator Neutral Ground Overcurrent backup protective relay actuated",
+        "1738",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "tripped the Unit 2 Main Generator",
+        "December 1, 1991",
+        "org:happened_at"
+      ],
+      [
+        "tripped the Unit 2 Main Generator",
+        "December 1, 1991",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "tripped the Unit 2 Main Generator",
+        "1738",
+        "org:happened_at"
+      ],
+      [
+        "tripped the Unit 2 Main Generator",
+        "1738",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "generator trip",
+        "neutral ground backup relay",
+        "org:caused_by"
+      ],
+      [
+        "generator trip",
+        "neutral ground backup relay",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "plant operating at 100 percent power",
+        "2:37 a.m.",
+        "org:happened_at"
+      ],
+      [
+        "plant operating at 100 percent power",
+        "2:37 a.m.",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "plant operating at 100 percent power",
+        "January 9, 2016",
+        "org:happened_at"
+      ],
+      [
+        "plant operating at 100 percent power",
+        "January 9, 2016",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "automatic reactor scram occurred",
+        "2:37 a.m.",
+        "org:happened_at"
+      ],
+      [
+        "automatic reactor scram occurred",
+        "2:37 a.m.",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "automatic reactor scram occurred",
+        "January 9, 2016",
+        "org:happened_at"
+      ],
+      [
+        "automatic reactor scram occurred",
+        "January 9, 2016",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "electrical transient",
+        "phase-to-phase fault on a nearby 230kV transmission line",
+        "org:caused_by"
+      ],
+      [
+        "electrical transient",
+        "phase-to-phase fault on a nearby 230kV transmission line",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "momentary decrease in the voltage on both reactor protection system busses",
+        "transient",
+        "org:caused_by"
+      ],
+      [
+        "momentary decrease in the voltage on both reactor protection system busses",
+        "transient",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Division 2 valves in balance-of-plant systems to close",
+        "Division 2 primary containment isolation logic was also actuated",
+        "org:caused_by"
+      ],
+      [
+        "Division 2 valves in balance-of-plant systems to close",
+        "Division 2 primary containment isolation logic was also actuated",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "Both divisions of the standby gas treatment system automatically started",
+        "shutdown of the normal annulus pressure control system",
+        "org:caused_by"
+      ],
+      [
+        "Both divisions of the standby gas treatment system automatically started",
+        "shutdown of the normal annulus pressure control system",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "voltage on the switchgear supplying the Reactor Protection System busses to decrease to approximately 34 percent of normal",
+        "fault lasted for 5.4 cycles before it was isolated by automatic breaker action",
+        "org:caused_by"
+      ],
+      [
+        "voltage on the switchgear supplying the Reactor Protection System busses to decrease to approximately 34 percent of normal",
+        "fault lasted for 5.4 cycles before it was isolated by automatic breaker action",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "trip the scram solenoids and the Main Steam Isolation Valves solenoids",
+        "transient",
+        "org:caused_by"
+      ],
+      [
+        "trip the scram solenoids and the Main Steam Isolation Valves solenoids",
+        "transient",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "electrical transient",
+        "action",
+        "org:caused_by"
+      ],
+      [
+        "electrical transient",
+        "action",
+        "org:caused_by"
+      ],
+      0
+    ]
+  ],
+  [
+    [
+      [
+        "Unit 2, while at 100% power",
+        "1/4/2013",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2, while at 100% power",
+        "2013",
+        "org:happened_at"
+      ],
+      4
+    ],
+    [
+      [
+        "Unit 2, while at 100% power",
+        "07:05",
+        "org:happened_at"
+      ],
+      [
+        "Unit 2, while at 100% power",
+        "07:05",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "commenced surveillances 0PSP03-RS-0004 and 0PSP03-RS-0001",
+        "1/4/2013",
+        "org:happened_at"
+      ],
+      [
+        "commenced surveillances 0PSP03-RS-0004 and 0PSP03-RS-0001",
+        "2013",
+        "org:happened_at"
+      ],
+      4
+    ],
+    [
+      [
+        "commenced surveillances 0PSP03-RS-0004 and 0PSP03-RS-0001",
+        "07:05",
+        "org:happened_at"
+      ],
+      [
+        "commenced surveillances 0PSP03-RS-0004 and 0PSP03-RS-0001",
+        "07:05",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "dropped rods were validated by diverse indications of power, flux, and rod positions",
+        "09:41",
+        "org:happened_at"
+      ],
+      [
+        "dropped rods were validated by diverse indications of power, flux, and rod positions",
+        "09:41",
+        "org:happened_at"
+      ],
+      0
+    ],
+    [
+      [
+        "blocked the multiplexing signal to the shutdown bank E Stationary Regulation card",
+        "high resistance on Rod Holdout Mode Selector (Rod Holdout Mode Selector) switch contacts in Rod Control Power Cabinet SCDE when the contacts should have been closed",
+        "org:caused_by"
+      ],
+      [
+        "blocked the multiplexing signal to the shutdown bank E Stationary Regulation card",
+        "high resistance on Rod Holdout Mode Selector (Rod Holdout Mode Selector) switch contacts in Rod Control Power Cabinet SCDE when the contacts should have been closed",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "dropped rods",
+        "blocked the multiplexing signal to the shutdown bank E Stationary Regulation card",
+        "org:caused_by"
+      ],
+      [
+        "dropped rods",
+        "blocked the multiplexing signal to the shutdown bank E Stationary Regulation card",
+        "org:caused_by"
+      ],
+      0
+    ],
+    [
+      [
+        "manual reactor trip was performed",
+        "09:41",
+        "org:happened_at"
+      ],
+      [
+        "manual reactor trip was performed",
+        "09:41",
+        "org:happened_at"
+      ],
+      0
+    ]
+  ]
+]
